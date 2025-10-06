@@ -59,3 +59,8 @@ Quan el client és informat del senzill que és accedir a l’equip, demana si h
 - Disc virtual.  
 - Apunts RA1AA4 Seguretat Lògica.  
 - Guies: *Recuperant Password en Linux*.
+
+# solucio
+La solució està en [solucio.md](solucio.md)
+
+[Tornar a la pàgina principal](../README.md)
