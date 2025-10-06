@@ -34,7 +34,7 @@ He escollit el **SAI Salicru SLC-5000-TWIN PRO3 SAI Doble** perquè:
 - Gràcies a la **topologia de doble conversió en línia**, evita fluctuacions de tensió que podrien malmetre els dispositius.  
 - Ofereix la **fiabilitat i estabilitat** necessàries per un entorn professional.
 
-![imatge sai final](projecte2/t2/imatge/saifinal.png)
+![imatge sai final](imatge/saifinal.png)
 
 
 
