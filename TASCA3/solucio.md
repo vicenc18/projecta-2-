@@ -31,4 +31,5 @@ selecionarem la opcio de root!
 Despues de seleciona root haurem de escriure un text a la consola que es MOUNT -RW -O RUMOUT /
 per despres escrure  PASSWD el usuari que voleu canviar la contrasenya 
 
-![captura de la acio](/IMG/canviarlacontrasenya.png)
+
+![captura de la acio](IMG/capturacon.png)
