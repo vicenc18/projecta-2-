@@ -74,8 +74,15 @@ A qui deixo algunes guies de co fero, a part de que farem nosaltres
 
 ### Pas 1 Quan  estem a dintre de zorin obrir una termilan, i escriurem  SUDO NANO /ETC/GRUB.a/40_CUSTOM
 
-![captura de la acio](IMG/NANO.png)
+![captura de la acio](IMG/custom.png)
 ### Pas 2 modificar el arxiu, haurem de posar SET SUPERUSERS="EL USUARI EN QUE ESTAS" 
-PASSWORD_
+PASSWORD_PBKDF2 USUARI
 
+![captura de la acio](IMG/grub2.png)
 
+### Pas 3 completar la linea de codi amb el sh de la contrasenya
+
+![captura de la acio](IMG/ultima.png)
+
+# FI DE LA GUIA 
+## MOLTES GRACIES 
