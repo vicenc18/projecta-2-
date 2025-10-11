@@ -19,23 +19,23 @@ Haurem de selecionar la  opcio advance configuration from zorin
 
 Seleciona la segona opcio 
 
-![captura de la acio](IMG/image.png)
+
 
 ## Despues de aixo en portara a una cunsola
 selecionarem la opcio de root!
 
-![captura de la acio](IMG/root.png)
+![captura de la acio](IMG/resume.png)
 
-![captura de la acio](IMG/root2.png)
+![captura de la acio](IMG/rooot3.png)
 
 Despues de seleciona root haurem de escriure un text a la consola que es MOUNT -RW -O RUMOUT /
 per despres escrure  PASSWD el usuari que voleu canviar la contrasenya 
 
-![captura de la acio](IMG/capturacon.png)
+![captura de la acio](IMG/mount.png)
 
 Hara canviarem la contrasenya per un altre que tingui mes de 8 digits 
 
-![captura de la acio](IMG/nova.png)
+![captura de la acio](IMG/NUEVA2.png)
 
 despues de renovar la contrasenya intentem inisar sesio amb lusuari
 ## rebestiment del grub
