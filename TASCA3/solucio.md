@@ -72,5 +72,7 @@ A qui deixo algunes guies de co fero, a part de que farem nosaltres
 ## [Red Hat Documentation](https://docs.redhat.com)
 **Documentación oficial** de **Red Hat** sobre comandos de **GRUB** y cómo acceder a él en modo de usuario único.
 
-## pas 1 Quan  estem a dintre de zorin obrir una termilan, i escriurem  SUDO NANO /ETC/
+### Pas 1 Quan  estem a dintre de zorin obrir una termilan, i escriurem  SUDO NANO /ETC/GRUB.a/40_CUSTOM
 
+![captura de la acio](IMG/NANO.png)
+### Pas 2 modificar el arxiu 
