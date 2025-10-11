@@ -11,3 +11,9 @@ A qui haruem de selecionar el disc que volem posrar
 ## 2 recuparacio de contrasenya
 # iniciar la maquina virtual
 Al inizar la maquina virtual haurem de fer shift + una lletre 
+
+![captura de la acio](IMG/image(1).png)
+
+Haurem de selecionar la  opcio advance configuration from zorin
+
+![captura de la acio](IMG/image.png)
