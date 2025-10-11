@@ -75,4 +75,7 @@ A qui deixo algunes guies de co fero, a part de que farem nosaltres
 ### Pas 1 Quan  estem a dintre de zorin obrir una termilan, i escriurem  SUDO NANO /ETC/GRUB.a/40_CUSTOM
 
 ![captura de la acio](IMG/NANO.png)
-### Pas 2 modificar el arxiu 
+### Pas 2 modificar el arxiu, haurem de posar SET SUPERUSERS="EL USUARI EN QUE ESTAS" 
+PASSWORD_
+
+
