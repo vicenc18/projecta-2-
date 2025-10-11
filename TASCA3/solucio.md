@@ -12,8 +12,23 @@ A qui haruem de selecionar el disc que volem posrar
 # iniciar la maquina virtual
 Al inizar la maquina virtual haurem de fer shift + una lletre 
 
-![captura de la acio](IMG/image(1).png)
-
 Haurem de selecionar la  opcio advance configuration from zorin
 
+
+![captura de la acio](IMG/image(1).png)
+
+Seleciona la segona opcio 
+
 ![captura de la acio](IMG/image.png)
+
+## Despues de aixo en portara a una cunsola
+selecionarem la opcio de root!
+
+![captura de la acio](IMG/root.png)
+
+![captura de la acio](IMG/root2.png)
+
+Despues de seleciona root haurem de escriure un text a la consola que es MOUNT -RW -O RUMOUT /
+per despres escrure  PASSWD el usuari que voleu canviar la contrasenya 
+
+![captura de la acio](/IMG/canviarlacontrasenya.png)
