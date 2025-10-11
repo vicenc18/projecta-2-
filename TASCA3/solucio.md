@@ -4,5 +4,9 @@ Haurem de afegir un dics a la maquina virtual
 
 ![captura de com afegir un disc a la maquina virtual ](IMG/captura1.png)
 
+A qui haruem de selecionar el disc que volem posrar
+
 ![captura de com afegir un disc a la maquina virtual ](IMG/captura2.png)
-![CAPTURA DE PANTALLA DE EL REBESTIMENT DEL GURUB](IMG/pas5.png)
+
+## 2 recuparacio de contrasenya
+
