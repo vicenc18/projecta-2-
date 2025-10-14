@@ -21,7 +21,7 @@ Seleciona la segona opcio
 
 
 
-## Despues de aixo en portara a una cunsola
+## 3.Despues de aixo en portara a una cunsola
 selecionarem la opcio de root!
 
 ![captura de la acio](IMG/resume.png)
@@ -37,8 +37,8 @@ Hara canviarem la contrasenya per un altre que tingui mes de 8 digits
 
 ![captura de la acio](IMG/NUEVA2.png)
 
-despues de renovar la contrasenya intentem inisar sesio amb lusuari
-## rebestiment del grub
+Despues de renovar la contrasenya intentem inisar sesio amb lusuari
+## 4.rebestiment del grub
 ### investigacio de com rebesti el grub 
 A qui deixo algunes guies de co fero, a part de que farem nosaltres 
 # Recursos sobre cómo establecer una contraseña en GRUB
